@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/BinaryGif.gif);
+}
+
+.navbar {
+    background-color:rgb(255, 255, 255, .5);
+}
+
+a:hover{
+    background-color: rgba(0, 255, 191, 0.5);
+}
+
+.nav-link {
+    margin:0;
+    padding: 23px 20px;
+}
+
+.navbar {
+    padding:0;
+}
+.navbar-brand {
+    background-color: rgba(0, 255, 191, 0.5);
+    padding: 20px 20px;
+    margin: 0;
+}
