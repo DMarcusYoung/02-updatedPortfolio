@@ -41,3 +41,38 @@ a:hover{
 #prof-description {
     font-size: 24px;
 }
+
+input {
+    width: 100%;
+    opacity: .75;
+}
+
+#mess-input {
+    height: 100px;
+}
+
+button {
+    background-color: rgba(0, 255, 191, 0.75);
+    margin-top:20px;
+}
+
+.pic-container {
+    position: relative;
+    display: inline-block;
+    margin:20px;
+}
+
+.portfolio-pic {
+    width: 200px;
+    height: 200px;
+    opacity: .75;
+}
+
+.port-imag-label {
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    bottom: 5%;
+    background-color: rgba(0, 255, 191, 0.75);
+    text-align: center;
+}
